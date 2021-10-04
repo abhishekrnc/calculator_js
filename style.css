@@ -19,3 +19,12 @@ button {
     height: 60px;
     border-radius: 50px;
 }
+
+.calculator {
+    border: solid 2px black;
+    border-spacing: 10px;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 15px;
+    background: rgb(216, 203, 19);
+}
